@@ -1,3 +1,4 @@
 {
-    "dl": "https://github.com/mairie360/API_lib/releases/download/v{version}/API_lib-{version}.crate"
+  "dl": "https://mairie360-eip.fr/crates/{crate}/{version}/download",
+  "api": null
 }
